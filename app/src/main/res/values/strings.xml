@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Digit Detection App</string>
+    <string name="place_holder">Draw a Digit</string>
+    <string name="classifier_error">Classifier Error</string>
+</resources>
